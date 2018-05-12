@@ -17,6 +17,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Sylvain_Mar%C3%A9chal
     - http://en.wikipedia.org/wiki/Sylvain_Mar%C3%A9chal
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25839#Apologues-modernes---l-usage-du-Dauphinpremi-res-le-ons-du-fils-ain--d-un-roi
 gutenberg_bookshelf: FR Politique
 gutenberg_issued: '2008-06-19'
 gutenberg_type: Text
